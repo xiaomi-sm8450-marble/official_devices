@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Stable/Monthly
+Device name: Poco F5/Redmi Note 12 Turbo
+Device codename: marble
+Device maintainer: SharmagRit
+
+=×=×= 11th Jan 2025 =×=×=
+* Synced with latest FlareOS v1.0 sources
+* Initial Official FlareOS A15 build
+* Thanks Phoenix for his device tree
